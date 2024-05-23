@@ -18,7 +18,7 @@ Following instructions will get you a copy of the project up and running on your
     - [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com))
 2.  Clone the repository by running this following command
     ```bash
-    git clone https://github.com/AhmedFarazQaimkhani/resturant_reservations
+    git clone https://github.com/AhmedFarazQaimkhani/tree-view.git
     ```
 3.  Start project by running following commands
 
@@ -62,4 +62,4 @@ main -> contains latest changes
 
 ## About Me
 
-_Hi, I'm Ahmed Faraz a BS(CE) graduate working as software developer in the industory for about 4 years, I am an experienced developer skilled in Javascript and its frameworks._
+_Hi, I'm Ahmed Faraz a BS(CE) graduate working as software developer in the industory for about 6 years, I am an experienced developer skilled in Javascript and its frameworks._
